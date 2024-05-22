@@ -1,4 +1,4 @@
-- # Accounting dApp & Credit Rating System on Cardano Blockchain
+- # Ubuntu_dApps: Decentralized Business Empowerment
 ## Overview
 This repository contains a Proof of Concept (PoC) for an accounting decentralized application (dApp) and credit rating system for small and medium-sized enterprises (MSMEs) on the Cardano blockchain. The application allows users to perform triple-entry bookkeeping and automatically generates credit ratings based on financial transactions.
 -
