@@ -6,7 +6,7 @@ This repository contains a Proof of Concept (PoC) for an accounting decentralize
 - **Triple-Entry Bookkeeping**: Track assets, liabilities, and equity.
 - **Credit Rating**: Automatically calculate credit ratings based on transaction history.
 - **Blockchain Integration**: Record transactions securely on the Cardano blockchain using Plutus smart contracts.
-- 
+- **Access To Credit**: Give soft loans to small businesses.
 ## Project Structure
 
 ## Prerequisites
